@@ -1,2 +1,2 @@
 # pedestrians_avoiding_to_right
-Agent based pedestrian that make the flow of the people faster. 
+An agent based pedestrian simulation model that make the flow of the people faster. 
